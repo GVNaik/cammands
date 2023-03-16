@@ -1,1 +1,4 @@
-Hi
+python --version
+pip list
+python -m venv py_env
+pip install apache-airflow (for airflow 2 abv on python 3 n abv only)
